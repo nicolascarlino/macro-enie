@@ -1,0 +1,5 @@
+time
+pynput
+pywin32
+winshell
+colorama
